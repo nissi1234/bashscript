@@ -1,1 +1,2 @@
-
+sudo yum -y install git
+git clone 
