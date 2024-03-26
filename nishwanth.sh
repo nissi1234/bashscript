@@ -5,3 +5,4 @@ cd car-prediction
 pip3 install -r requirements.txt
 screen -m -d python3 app.py
 ni
+s
